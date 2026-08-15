@@ -126,8 +126,6 @@ The repository contains:
 - Tableau dashboard
 - Business intelligence reports
 
-> *(You can add dashboard screenshots or GIFs here for a better GitHub presentation.)*
-
 ---
 
 ## 🚀 How to Run
@@ -179,9 +177,6 @@ Customer-Value-Segmentation/
 ├── Sales Dashboard.gif
 ├── Visualization Images/
 └── requirements.txt
-```
-
-> *Update the file and folder names above if they differ from your actual repository.*
 
 ---
 
