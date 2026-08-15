@@ -263,6 +263,19 @@ Customer purchasing behaviour changes over time. Updating the RFM analysis regul
 ### 🚀 10. Support Business Growth with Data
 The insights generated from this project can help businesses understand their customers better, improve customer retention, optimize marketing efforts, and make data-driven decisions for long-term business growth.
 
+## 🔗 Project Links
+
+* **GitHub Repository:**
+  https://github.com/PoojaRaghu-07/Customer-Segmentation-Analysis
+
+* **🖼️ Dashboard PNG – Direct Link:**
+  https://raw.githubusercontent.com/PoojaRaghu-07/Customer-Segmentation-Analysis/main/Data-Analytics-Customer-Segmentation/Dashboard/Tableau%20Dashboard.png
+
+* **🎥 Dashboard GIF – Direct Link:**
+  https://raw.githubusercontent.com/PoojaRaghu-07/Customer-Segmentation-Analysis/main/Data-Analytics-Customer-Segmentation/Dashboard/Tableau%20Dashboard.gif
+
+* **📊 Tableau Workbook (.twbx):**
+  https://github.com/PoojaRaghu-07/Customer-Segmentation-Analysis/blob/main/Data-Analytics-Customer-Segmentation/Dashboard/Tableau%20Dashboard.twbx
 
 ## 👩‍💻 Author
 
