@@ -177,9 +177,7 @@ Customer-Value-Segmentation/
 ├── Sales Dashboard.gif
 ├── Visualization Images/
 └── requirements.txt
-
----
-
+```
 ## 📚 Skills Demonstrated
 
 - Data Cleaning
