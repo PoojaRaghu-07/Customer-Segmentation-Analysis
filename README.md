@@ -272,9 +272,6 @@ The insights generated from this project can help businesses understand their cu
 * **🎥 Dashboard GIF:**  
   [View Dashboard GIF](https://raw.githubusercontent.com/PoojaRaghu-07/Customer-Segmentation-Analysis/main/Data-Analytics-Customer-Segmentation/Dashboard/Tableau%20Dashboard.gif)
 
-* **📊 Tableau Workbook (.twbx):**  
-  [Download Tableau Workbook](https://github.com/PoojaRaghu-07/Customer-Segmentation-Analysis/blob/main/Data-Analytics-Customer-Segmentation/Dashboard/Tableau%20Dashboard.twbx)
-
 
 ## 👩‍💻 Author
 
