@@ -275,9 +275,6 @@ The insights generated from this project can help businesses understand their cu
 * **📊 Tableau Workbook (.twbx):**  
   [Download Tableau Workbook](https://github.com/PoojaRaghu-07/Customer-Segmentation-Analysis/blob/main/Data-Analytics-Customer-Segmentation/Dashboard/Tableau%20Dashboard.twbx)
 
-## 🎥 Project Demo
-
-▶️ [Watch Customer Value Segmentation Analysis Demo](https://youtu.be/_iL4f-pNKY4)
 
 ## 👩‍💻 Author
 
