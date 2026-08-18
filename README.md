@@ -265,19 +265,20 @@ The insights generated from this project can help businesses understand their cu
 
 ## 🔗 Project Links
 
-* **GitHub Repository:**
-  https://github.com/PoojaRaghu-07/Customer-Segmentation-Analysis
+* **GitHub Repository:**  
+  [Customer-Segmentation-Analysis](https://github.com/PoojaRaghu-07/Customer-Segmentation-Analysis)
 
-* **🖼️ Dashboard PNG – Direct Link:**
-  https://raw.githubusercontent.com/PoojaRaghu-07/Customer-Segmentation-Analysis/main/Data-Analytics-Customer-Segmentation/Dashboard/Tableau%20Dashboard.png
+* **🖼️ Dashboard PNG:**  
+  [View Dashboard PNG](https://raw.githubusercontent.com/PoojaRaghu-07/Customer-Segmentation-Analysis/main/Data-Analytics-Customer-Segmentation/Dashboard/Tableau%20Dashboard.png)
 
-* **🎥 Dashboard GIF – Direct Link:**
-  https://raw.githubusercontent.com/PoojaRaghu-07/Customer-Segmentation-Analysis/main/Data-Analytics-Customer-Segmentation/Dashboard/Tableau%20Dashboard.gif
+* **🎥 Dashboard GIF:**  
+  [View Dashboard GIF](https://raw.githubusercontent.com/PoojaRaghu-07/Customer-Segmentation-Analysis/main/Data-Analytics-Customer-Segmentation/Dashboard/Tableau%20Dashboard.gif)
 
-* **📊 Tableau Workbook (.twbx):**
-  https://github.com/PoojaRaghu-07/Customer-Segmentation-Analysis/blob/main/Data-Analytics-Customer-Segmentation/Dashboard/Tableau%20Dashboard.twbx
+* **📊 Tableau Workbook (.twbx):**  
+  [Download Tableau Workbook](https://github.com/PoojaRaghu-07/Customer-Segmentation-Analysis/blob/main/Data-Analytics-Customer-Segmentation/Dashboard/Tableau%20Dashboard.twbx)
 
 ## 🎥 Project Demo
+
 ▶️ [Watch Customer Value Segmentation Analysis Demo](https://youtu.be/_iL4f-pNKY4)
 
 ## 👩‍💻 Author
